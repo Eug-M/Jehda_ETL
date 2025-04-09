@@ -1,2 +1,3 @@
 keys.py
-*.json
+log_file_booking.txt
+result_booking*
