@@ -10,6 +10,7 @@ Les sources sont organisés de la manière suivante :
  - *Scraping* :
    - *Booking.py* : script Python du scraping du site Booking.fr
  - *src* : contient les fichiers .json créés avec le notebook Projet_Kayak_vF.ipynb, est vide car ces fichiers sont dans le .gitignore
+ - *Maps_videos* : contient les vidéos des cartes interactives crées pour ce projet (météo et hôtels)
 
 ## Prérequis
 
