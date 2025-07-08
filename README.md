@@ -1,5 +1,5 @@
 # Jedha_DL
-Projet ETL : Kayak
+Projet ETL (Extract, Transform, Load) : Kayak
 
 ## Structure des dossiers
 
